@@ -3,4 +3,3 @@ D:\Sagar\tudy\AnuglarJs\Practice\Gits\FirstProject\AngularJsFirstProject\AJsWebA
 D:\Sagar\tudy\AnuglarJs\Practice\Gits\FirstProject\AngularJsFirstProject\AJsWebApplication\bin\AJsWebApplication.pdb
 D:\Sagar\tudy\AnuglarJs\Practice\Gits\FirstProject\AngularJsFirstProject\AJsWebApplication\obj\Debug\AJsWebApplication.dll
 D:\Sagar\tudy\AnuglarJs\Practice\Gits\FirstProject\AngularJsFirstProject\AJsWebApplication\obj\Debug\AJsWebApplication.pdb
-D:\Sagar\tudy\AnuglarJs\Practice\Gits\FirstProject\AngularJsFirstProject\AJsWebApplication\obj\Debug\AJsWebApplication.csprojResolveAssemblyReference.cache

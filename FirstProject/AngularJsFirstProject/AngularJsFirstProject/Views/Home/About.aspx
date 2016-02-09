@@ -9,6 +9,12 @@
 
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
     <div>
+        {{ error }}<br />
+    </div>
+    <div>
+        <a href="#/">Go back to serach</a>
+        <br />
+        <h2>{{ user.name }}</h2>
         <div>
             Name: <a target="_blank" ng-href="{{ user.blog }}">{{ user.name }}</a>
         </div>
@@ -26,5 +32,9 @@
                 <img ng-src="{{user.avatar_url}}" alt="{{user.name}}" />
         </div>
         <br />
+        <div ng-include="'home/RepositoryList'">
+        </div>
+        <br />
+        <a href="#/">Go back to serach</a>
     </div>
 </asp:Content>
