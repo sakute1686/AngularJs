@@ -21,6 +21,5 @@ D:\Sagar\tudy\AnuglarJs\Practice\Gits\FirstProject\AngularJsFirstProject\Angular
 D:\Sagar\tudy\AnuglarJs\Practice\Gits\FirstProject\AngularJsFirstProject\AngularJsFirstProject\bin\System.Web.WebPages.xml
 D:\Sagar\tudy\AnuglarJs\Practice\Gits\FirstProject\AngularJsFirstProject\AngularJsFirstProject\bin\System.Web.WebPages.Deployment.xml
 D:\Sagar\tudy\AnuglarJs\Practice\Gits\FirstProject\AngularJsFirstProject\AngularJsFirstProject\bin\System.Web.WebPages.Razor.xml
-D:\Sagar\tudy\AnuglarJs\Practice\Gits\FirstProject\AngularJsFirstProject\AngularJsFirstProject\obj\Debug\AngularJsFirstProject.csprojResolveAssemblyReference.cache
 D:\Sagar\tudy\AnuglarJs\Practice\Gits\FirstProject\AngularJsFirstProject\AngularJsFirstProject\obj\Debug\AngularJsFirstProject.dll
 D:\Sagar\tudy\AnuglarJs\Practice\Gits\FirstProject\AngularJsFirstProject\AngularJsFirstProject\obj\Debug\AngularJsFirstProject.pdb

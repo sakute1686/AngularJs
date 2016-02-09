@@ -191,7 +191,11 @@
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
     <None Include="Scripts\jquery-1.8.2.intellisense.js" />
-    <Content Include="Scripts\Site.js" />
+    <Content Include="Scripts\angular-route.js" />
+    <Content Include="Scripts\angular-route.min.js" />
+    <Content Include="Scripts\app.js" />
+    <Content Include="Scripts\GitHub.js" />
+    <Content Include="Scripts\MainController.js" />
     <Content Include="Scripts\angular.js" />
     <Content Include="Scripts\angular.min.js" />
     <Content Include="Scripts\jquery-1.8.2.js" />
@@ -208,9 +212,11 @@
     <Content Include="Scripts\knockout-2.2.0.debug.js" />
     <Content Include="Scripts\knockout-2.2.0.js" />
     <Content Include="Scripts\modernizr-2.6.2.js" />
+    <Content Include="Scripts\UserController.js" />
     <Content Include="Scripts\_references.js" />
     <Content Include="Views\Home\About.aspx" />
     <Content Include="Views\Home\Index.aspx" />
+    <Content Include="Views\Home\Main.aspx" />
     <Content Include="Views\Home\RepositoryList.aspx" />
     <Content Include="Views\Home\TestPage.aspx" />
     <Content Include="Web.config" />

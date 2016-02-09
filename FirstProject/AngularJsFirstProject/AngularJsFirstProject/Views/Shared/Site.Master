@@ -3,7 +3,11 @@
 <html>
 <head>
     <script src="../../Scripts/angular.js"></script>
-    <script src="../../Scripts/Site.js"></script>
+    <script src="../../Scripts/angular-route.js"></script>
+    <script src="../../Scripts/app.js"></script>
+    <script src="../../Scripts/MainController.js"></script>
+    <script src="../../Scripts/UserController.js"></script>
+    <script src="../../Scripts/GitHub.js"></script>
     <title>
         <asp:ContentPlaceHolder ID="TitleContent" runat="server" />
     </title>

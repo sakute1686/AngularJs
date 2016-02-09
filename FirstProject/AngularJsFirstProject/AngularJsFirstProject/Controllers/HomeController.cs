@@ -25,6 +25,11 @@ namespace AngularJsFirstProject.Controllers
             ViewBag.Title = "Repository List";
             return View();
         }
+        public ActionResult Main()
+        {
+            ViewBag.Title = "Main";
+            return View();
+        }
         public ActionResult TestPage()
         {
             ViewBag.Title = "About";
