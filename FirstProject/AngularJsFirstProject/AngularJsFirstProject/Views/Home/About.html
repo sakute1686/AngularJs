@@ -1,0 +1,28 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <div>
+        <h2>{{ user.name }}</h2>
+        <div>
+            Name: <a target="_blank" ng-href="{{ user.blog }}">{{ user.name }}</a>
+        </div>
+        <div>
+            Location: {{ user.location }}
+        </div>
+        <div>
+            Blog: {{ user.blog }}
+        </div>
+        <div>
+            Company: {{ user.company }}
+        </div>
+        <div style="vertical-align: top;">
+            Image:
+            <img ng-src="{{user.avatar_url}}" alt="{{user.name}}" />
+        </div>
+        <br />
+    </div>
+</body>
+</html>
